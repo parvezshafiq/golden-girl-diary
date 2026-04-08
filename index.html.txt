@@ -46,7 +46,10 @@
 <body>
 
 <header>
-  <h1>Golden Girl Diary</h1>
+  <div style="display:flex;align-items:center;justify-content:center;gap:10px;">
+    <img src="https://via.placeholder.com/60" alt="Logo" style="height:60px;border-radius:50%;">
+    <h1>Golden Girl Diary</h1>
+  </div>
   <nav>
     <a href="#">Home</a>
     <a href="#products">Products</a>
