@@ -47,7 +47,7 @@
 
 <header>
   <div style="display:flex;align-items:center;justify-content:center;gap:10px;">
-    <img src="https://i.ibb.co.com/Vc65TTQ7/gglogo.jpg" alt="Logo" style="height:60px;border-radius:50%;">
+    <img src="https://i.ibb.co.com/Vc65TTQ7/gglogo.jpg" style="height:60px;border-radius:50%;">
     <h1>Golden Girl Diary</h1>
   </div>
   <nav>
