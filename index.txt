@@ -34,7 +34,7 @@
 </section>
 <section id="products" class="products">
   <div class="card">
-    <img src="https://i.ibb.co.com/yB4MDC4b/The-Face-Shop-Rice-Ceramide-Moisturizing-The-Face-Shop-b2e41-488499.png" alt="The Face Shop Rice Ceramide Moisturizing The Face Shop b2e41 488499" border="0">
+    <img src="https://i.ibb.co.com/yB4MDC4b/The-Face-Shop-Rice-Ceramide-Moisturizing-The-Face-Shop-b2e41-488499.png" alt="The face shop">
     <h3>Korean Rice Moisturiser</h3>
     <p>Brightens skin & deep hydration</p>
     <p><strong>1500 Tk</strong></p>
